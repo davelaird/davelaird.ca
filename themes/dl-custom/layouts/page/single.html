@@ -5,7 +5,7 @@
 {{ define "main" }}
 {{ if .Params.headerimg }}
 {{ $image := .Resources.GetMatch .Params.headerimg }}
-{{ $image := $image.Resize "600x" }}
+{{ $image := $image.Resize "2048x" }}
 <div class="container-fluid bg-img position-relative mb-3" style="background-image: url({{ $image.RelPermalink }});">
     <div class="container" style="height: 50vh; position-relative">
         <h1{{ with .Params.titleclass }} class="{{ . }}"{{ end }}>{{ .Title }}</h1>

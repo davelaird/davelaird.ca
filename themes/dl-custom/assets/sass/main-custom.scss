@@ -16,6 +16,8 @@ $h4-font-size:                $font-size-base * 1.25;
 $h5-font-size:                $font-size-base * 1.1;
 //$h6-font-size:                $font-size-base;
 
+h1, h2, h3, h4, h5, h6 { color: $secondary; }
+
 // Shared styles
 @import "main.scss";
 
@@ -36,6 +38,14 @@ figure > img {
     background-position: 50%;
 }
 
+blockquote { 
+    border: 1px solid $primary;
+    background: lighten($primary, 65%);
+    padding: 5px 8px;
+    color: $primary;
+    p:last-child { margin-bottom: 0; }
+}
+
 .page table {
     margin-bottom: 1rem;
     thead tr {
@@ -45,7 +55,10 @@ figure > img {
     tbody tr {
         border-bottom: 1px solid $secondary;
     }
-    th, td { padding: 2px 5px; }
+    th, td {
+        padding: 2px 12px 2px 4px;
+        &:last-child { padding-right: 4px; }
+    }
 }
 
 //.gridcards > div.col > div.card > div.card-body > h1.card-title { font-size: 1.5rem!important; }

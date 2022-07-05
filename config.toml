@@ -1,4 +1,4 @@
-baseURL = "https://davelaird.github.io"
+baseURL = "https://davelaird.ca"
 title = "Dave Laird"
 author = "Dave Laird"
 copyright = "Copyright © 2022 Dave Laird. All rights reserved."
@@ -108,33 +108,33 @@ theme = ["dl-custom", "bootstrap-bp-hugo-theme"]
 
 [menu]
 
-  [[menu.main]]
-    identifier = "about"
-    name = "About"
-    url = "/about/"
-    weight = 10
-    pre = "<i class='fas fa-address-card'></i>"
+  # [[menu.main]]
+  #   identifier = "about"
+  #   name = "About"
+  #   url = "/about/"
+  #   weight = 10
+  #   pre = "<i class='fas fa-address-card'></i>"
 
-  [[menu.footer]]
-    identifier = "about"
-    name = "About"
-    url = "/about/"
-    weight = 10
-    pre = "<i class='fas fa-address-card'></i>"
+  # [[menu.footer]]
+  #   identifier = "about"
+  #   name = "About"
+  #   url = "/about/"
+  #   weight = 10
+  #   pre = "<i class='fas fa-address-card'></i>"
 
-  [[menu.footer]]
-    identifier = "categories"
-    name = "Categories"
-    url = "/categories/"
-    weight = 20
-    pre = "<i class='fas fa-folder'></i>"
+  # [[menu.footer]]
+  #   identifier = "categories"
+  #   name = "Categories"
+  #   url = "/categories/"
+  #   weight = 20
+  #   pre = "<i class='fas fa-folder'></i>"
 
-  [[menu.footer]]
-    identifier = "tags"
-    name = "Tags"
-    url = "/tags/"
-    weight = 30
-    pre = "<i class='fas fa-tags'></i>"
+  # [[menu.footer]]
+  #   identifier = "tags"
+  #   name = "Tags"
+  #   url = "/tags/"
+  #   weight = 30
+  #   pre = "<i class='fas fa-tags'></i>"
 
 
 [taxonomies]

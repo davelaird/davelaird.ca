@@ -15,7 +15,7 @@ I go through kilos of endurance fuel per month, and I didn't like paying the pri
 
 A 2:1 mix of maltodextrin & fructose, plus lots of electrolytes, and a bit of lemon-lime flavour. Here's how a single 2160 g batch breaks down:
 
-- 1360g [maltodextrin](https://torontobrewing.ca/products/maltodextrin-20de-50-lb) — a simple starch with very low osmolality. The primary carbohydrate in most high quality endurance fuels.
+- 1360g [maltodextrin](https://torontobrewing.ca/products/maltodextrin-20de-50-lb) — a simple starch with very low osmolality. The primary carbohydrate in most high quality endurance fuels/gels/blocks/etc.
 - 680g [fructose](https://www.walmart.ca/en/ip/NOW-Foods-NOW-Real-Food-Fructose-Fruit-Sugar-3-lbs/54T09F86R2MC) — to utilize the separate fructose energy pathway in your gut
 - 40g sodium chloride — regular table salt
 - 40g [sodium citrate](https://www.amazon.ca/gp/product/B09DTPGBY4/) — to increase the sodium to chloride ratio so you aren't shoving so much chlorine into your system
@@ -25,16 +25,19 @@ A 2:1 mix of maltodextrin & fructose, plus lots of electrolytes, and a bit of le
 
 I sell pre-mixed batches at cost to friends, family, and LapDogs members ONLY. Send me an email or message me on Facebook if you want some. Current cost is $22.22 per batch with a BYO container, or $25.72 in a 2 gallon mylar bag with a big desiccant pack.
 
+
 ## Usage
 
+> First, to cover my ass: **use at your own risk!** What works for me may not work for you. If you are diabetic, you should **definitely** not be pumping loads of high-GI carbs into your system. Talk to your doctor etc. And remember: nothing new on race day.
+
 ### 2-ish hours or less: you don't really need fuel
-- Your body has plenty of energy on board for shorter events, and you can make up the loss with a normal diet before and after the event. Just keep hydrated. You can use a small amount of mix for flavour and electrolytes, but you don't really need it unless you are doing several back-to-back short efforts (like laps on a team).
+- Your body has plenty of energy on board for shorter (sub-1500 Cal) events, and you can make up the loss with a normal diet before and after the event. Just keep hydrated. You can use a small amount of mix for flavour and electrolytes, but you don't really need it unless you are doing several back-to-back short efforts (like laps on a team).
 ### 2+ hours at 200w endurance pace
-- Minimum 80g (320 Cal) of mix per hour
+- Minimum 80g (304 Cal) of mix per hour
 - Minimum 692 ml of water for an isotonic (easily digestible) solution
 - Including your body's glycogen and fat, you can go about 15 hours before exhaustion
 ### 2+ hours at 280w race pace
-- Maximum 110g (440 Cal) of mix per hour
+- Maximum 110g (418 Cal) of mix per hour
 - Minimum 951 ml of water for an isotonic (digestible) solution
 - Including your body's glycogen and fat, you can go about 5.6 hours before exhaustion. Even longer if you carb load before the race.
 
@@ -42,12 +45,12 @@ Your rested body has about 1500-2000 Calories of easy-access energy on board (gl
 
 ## Example: 8-hour race
 
-- Minimum 80g (320 Cal) to maximum 110g (440 Cal) of mix **per hour, every hour**
+- Minimum 80g (304 Cal) to maximum 110g (418 Cal) of mix **per hour, every hour**
 - Drink your first hour of fuel 30 minutes before race start
 - Aim for 1 litre of water per hour for hydration. Consider a Camelbak if it's not practical to drink that much from a bottle (i.e. MTB race).
 - At an absolute minimum, you need 8.65 g (or ml, same thing) of water per gram of mix. Any less and the mix will stay in your stomach until your body dilutes it.
 - The more full your stomach, the faster it will empty (assuming what’s in your stomach is diluted enough to be isotonic in your gut)
-- Assuming 1500 Cal of muscle and liver glycogen + 300 Cal of fat metabolized per hour + 100g of carbs per hour, you can burn 6540 Cal over 8 hours = 818 Cal/hr burn rate. Divide by 818 by 3.6 = 227 watts steady for 8 hours.
+- Assuming 1500 Cal of muscle and liver glycogen + 300 Cal of fat metabolized per hour + 100g of mix per hour, you can burn 6540 Cal over 8 hours = 818 Cal/hr burn rate. Divide by 818 by 3.6 = 227 watts steady for 8 hours.
 - No additional fuel recommended — your gut's energy transporters will already be saturated, and any protein or fat will slow the rate of digestion. On very long events I may eat a slice of multigrain bread every couple of hours just to have something different and solid.
 - From my experience, the longer the event, the better the rocket fuel tastes. Your body is craving exactly what it provides.
 
@@ -61,12 +64,12 @@ I'm thinking of making an even more potent mix (Ultra Fuel?) using [Cluster Dext
 
 Basically the same or much better than any other endurance fuel at a tiny fraction of the cost. I based the recipe on Maurten 320, information gleaned from the fantastic [TrainerRoad podcast](https://www.trainerroad.com/podcast/), and a shit-ton of additional research. The goal was to ingest the maximum amount of usable carbohydrates per hour for many hours in a row (up to 24 hours steady) at a reasonable price.
 
-| Mix              | $/100 g |
-| ---------------- | -------:|
-| Dave's Rocket Fuel | $1.19 |
-| [Gatorade powder](https://www.amazon.ca/Gatorade-Thirst-Quencher-Powder-Glacier/dp/B0052HV6EU/) | $2.29 |
-| [Hammer Heed](https://hammernutrition.ca/collections/fuels-recovery/products/heed-lemon-lime?variant=32362912940113) | $3.32 |
-| [Maurten 320](https://ca.shop.runningroom.com/en_ca/maurten-drink-mix-320-box-of-14.html) | $6.07 |
+| Mix              | $/100 g | Max Cal/hr |
+| ---------------- | -------:| -----:|
+| Dave's Rocket Fuel | $1.19 | 418 |
+| [Gatorade powder](https://www.amazon.ca/Gatorade-Thirst-Quencher-Powder-Glacier/dp/B0052HV6EU/) | $2.29 | 80 |
+| [Hammer Heed](https://hammernutrition.ca/collections/fuels-recovery/products/heed-lemon-lime?variant=32362912940113) | $3.32 | 110 |
+| [Maurten 320](https://ca.shop.runningroom.com/en_ca/maurten-drink-mix-320-box-of-14.html) | $6.07 | 320 |
 
 Cheaper "fuels" like Gatorade use table sugar (sucrose) at very low energy density. Look at the label — 80 Calories per bottle? That's nothing! You could never drink enough to come close to maxing out your gut's energy pathways. What about using 100g of Gatorade powder in a bottle? No dice. Sucrose has a much higher osmolality than maltodextrin, so you need to consume much more water to digest the same number of calories — more than you could realistically drink hour after hour. Without dilution Gatorade will sit in your stomach while your body slowly dilutes it to an isotonic solution (temporarily dehydrating you from the inside). You'll get very full very fast with hardly any grams of carbs per hour.
 
