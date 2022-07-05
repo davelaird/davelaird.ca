@@ -1,4 +1,4 @@
-baseURL = "https://davelaird.ca"
+baseURL = "https://davelaird.github.io"
 title = "Dave Laird"
 author = "Dave Laird"
 copyright = "Copyright © 2022 Dave Laird. All rights reserved."
@@ -168,3 +168,27 @@ series = "series"
 
   [services.twitter]
     disableInlineCSS = true
+
+# run command to initialize module first:
+# hugo mod init github.com/spech66/bootstrap-bp-hugo-theme/
+
+# [module]
+#   noProxy = 'none'
+#   noVendor = ''
+#   private = '*.*'
+#   proxy = 'direct'
+#   #replacements = ''
+#   workspace = ''
+#   [module.hugoVersion]
+#     extended = true
+#     max = ''
+#     min = ''
+# [[module.imports]]
+#   disable = false
+#   ignoreConfig = false
+#   ignoreImports = false
+#   path = 'github.com/spech66/bootstrap-bp-hugo-theme/'
+# [[module.imports]]
+#   path = 'themes/bootstrap-bp-hugo-theme/'
+
+
