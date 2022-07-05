@@ -1,0 +1,22 @@
+{{ define "title" }}
+    {{ .Title }} &ndash; {{ .Site.Title }}
+{{ end }}
+
+{{ define "main" }}
+{{ if .Params.headerimg }}
+{{ $image := .Resources.GetMatch .Params.headerimg }}
+{{ $image := $image.Resize "600x" }}
+<div class="container-fluid bg-img position-relative mb-3" style="background-image: url({{ $image.RelPermalink }});">
+    <div class="container" style="height: 50vh; position-relative">
+        <h1{{ with .Params.titleclass }} class="{{ . }}"{{ end }}>{{ .Title }}</h1>
+    </div>
+</div>
+{{ else }}
+<div class="container">
+    <h1{{ with .Params.titleclass }} class="{{ . }}"{{ end }}>{{ .Title }}</h1>
+</div>
+{{ end }}
+<div class="container page">
+    {{ .Content }}
+</div>
+{{ end }}

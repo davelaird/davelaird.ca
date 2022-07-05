@@ -1,0 +1,18 @@
+<div class="container mt-3 mb-3">
+    <h2>{{ .type | pluralize | title }}</h2>
+    {{ if .context.Site.Params.startPageColumns }}
+        <div class="row row-cols-1 row-cols-md-3 g-4 mb-3 gridcards">
+            {{ range (first .items ( where .context.Site.RegularPages.ByPublishDate.Reverse "Type" .type )) }}
+            <div class="col">
+                {{- partial "content_index.html" . -}}
+            </div>
+            {{ end }}
+        </div>
+    {{ else }}
+    {{ range (first .items ( where .context.Site.RegularPages.ByPublishDate.Reverse "Type" .type )) }}
+        <div class="mb-3">
+            {{- partial "content_index.html" . -}}
+        </div>
+        {{ end }}
+    {{ end }}
+</div>
