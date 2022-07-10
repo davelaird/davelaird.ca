@@ -1,15 +1,18 @@
 ---
 title: "Dave's Rocket Fuel"
-titleclass: "text-white position-absolute bottom-0 mb-3"
+titleclass: "title-fuel"
+headerclass: "bottom-angle-10"
 date: 2022-06-30T23:51:52-04:00
 draft: false
 summary: Cheap, high quality fuel for my endurance athlete friends
 tags: ["endurance", "fuel"]
-headerimg: shuttle launch.jpg
+headerimg: shuttle launch cropped.jpg
 slug: fuel
 ---
 
 I go through kilos of endurance fuel per month, and I didn't like paying the price of a studio apartment rental just to fuel my activities. How hard could it be to just make my own fuel from scratch? All of my friends have been asking for the recipe (or just for a batch) so here you go!
+
+{{< optfigure src="bag-of-fuel-rt" alt="A bag of Dave's Rocket Fuel" caption="A mylar bag with 2160 g of fuel" class="float-sm-end w-sm-50 w-md-40 w-xl-30 ms-sm-3" >}}
 
 ## What's in it?
 
@@ -23,10 +26,10 @@ A 2:1 mix of maltodextrin & fructose, plus lots of electrolytes, and a bit of le
 - 10g [True Lemon](https://www.amazon.ca/gp/product/B004AMMPMU/)
 - 10g [True Lime](https://www.amazon.ca/gp/product/B004AMHIJU/)
 
-I sell pre-mixed batches at cost to friends, family, and LapDogs members ONLY. Send me an email or message me on Facebook if you want some. Current cost is $22.22 per batch with a BYO container, or $25.72 in a 2 gallon mylar bag with a big desiccant pack.
+I sell pre-mixed batches at cost to friends, family, and LapDogs members ONLY. Send me an email or message me on Facebook if you want some. Current price is $22.22 per batch with a BYO container, or $30 in a 2 gallon mylar bag with a big desiccant pack.
 
 
-## Usage
+## Usage { .clear-both }
 
 > First, to cover my ass: **use at your own risk!** What works for me may not work for you. If you are diabetic, you should **definitely** not be pumping loads of high-GI carbs into your system. Talk to your doctor etc. And remember: nothing new on race day.
 
